@@ -89,7 +89,7 @@ int main() {
                 break;
 
             default:
-                cout << "Invalid choice. Please try again." << endl;
+                cout << "Invalid choice. Please ty again." << endl;
         }
         cout << "\n\n";
         system("pause");
